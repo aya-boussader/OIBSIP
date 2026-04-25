@@ -25,9 +25,13 @@ Oasis Infobyte Internship Program.
 
 ---
 
-### ⏳ Task 5 — Sales Prediction using Python
+### ✅ Task 5 — Sales Prediction using Python
 > Predict sales based on advertising budget
-- 📁 Coming soon...
+- 📁 [View Project](./Task5_Sales_Prediction/)
+- 🤖 Models : Linear Regression, Random Forest, Gradient Boosting
+- 🎯 Best R² Score : 98.31% (Gradient Boosting)
+- 💡 TV (61.3%) and Radio (38.1%) are the most impactful channels
+- 🎥 Demo : Coming soon...
 
 ---
 
