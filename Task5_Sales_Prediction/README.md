@@ -34,3 +34,23 @@ Oasis Infobyte Internship Program.
 ## 🚀 How to Run Locally
 
 1. Clone the repository
+git clone https://github.com/aya-boussader/OIBSIP.git
+cd OIBSIP/Task5_Sales_Prediction
+
+2. Install dependencies
+pip install pandas numpy matplotlib seaborn scikit-learn
+
+3. Open the notebook
+jupyter notebook sales.ipynb
+
+## 🎥 Demo Video
+👉 Coming soon...
+
+## 👩‍💻 Author
+**Aya Boussader**
+Second-year student at ENSA Marrakech
+Oasis Infobyte Data Science Internship 2025
+🔗 [LinkedIn](http://www.linkedin.com/in/aya-boussader-a6b043339/)
+
+## 📜 License
+This project is open source and free to use.
