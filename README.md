@@ -12,10 +12,18 @@ Oasis Infobyte Internship Program.
 - 📁 [View Project](./Task1_Iris_Classification/)
 - 🤖 Models : KNN, Decision Tree, Random Forest
 - 🎯 Accuracy : 100%
+- 🎥 Demo : Coming soon...
 
-### ⏳ Task 3 — Car Price Prediction
-> Predict car prices using Regression
-- 📁 Coming soon...
+---
+
+### ✅ Task 3 — Car Price Prediction
+> Predict used car prices using Regression
+- 📁 [View Project](./Task3_Car_Price_Prediction/)
+- 🤖 Models : Linear Regression, Random Forest, Gradient Boosting
+- 🎯 Best R² Score : 96.56% (Gradient Boosting)
+- 🎥 Demo : Coming soon...
+
+---
 
 ### ⏳ Task 5 — Sales Prediction using Python
 > Predict sales based on advertising budget
