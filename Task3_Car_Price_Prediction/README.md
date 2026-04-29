@@ -40,7 +40,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 jupyter notebook car_price.ipynb
 
 ## 🎥 Demo Video
-👉 Coming soon...
+👉 https://drive.google.com/file/d/1unH06-G22X9Af_9nIfrtd53IUBiFOpt4/view?usp=sharing
 
 ## 👩‍💻 Author
 **Aya Boussader**
