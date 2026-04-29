@@ -39,7 +39,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 jupyter notebook iris.ipynb
 
 ## 🎥 Demo Video
-👉 Coming soon...
+👉 https://drive.google.com/file/d/1wZ0U0Q--WhcSDWLz4T1wmDEeppUOCn9M/view?usp=sharing
 
 ## 👩‍💻 Author
 **Aya Boussader**
