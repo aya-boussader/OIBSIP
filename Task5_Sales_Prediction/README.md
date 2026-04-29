@@ -44,7 +44,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 jupyter notebook sales.ipynb
 
 ## 🎥 Demo Video
-👉 Coming soon...
+👉 https://drive.google.com/file/d/1tYMMzU-BZqu1vo96suguRPee_dZclWk8/view?usp=sharing
 
 ## 👩‍💻 Author
 **Aya Boussader**
